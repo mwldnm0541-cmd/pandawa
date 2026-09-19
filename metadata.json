@@ -1,0 +1,6 @@
+{
+  "name": "Pramuka SMP PGRI 6 Bogor (Gudep 01.043 - 01.044)",
+  "description": "Portal Resmi Gerakan Pramuka Gugus Depan 01.043 - 01.044 Pangkalan SMP PGRI 6 Kota Bogor. Informasi kegiatan, pendaftaran anggota baru, galeri foto, jadwal latihan terintegrasi Google Calendar, pengiriman dan nilai tugas, profil pembina, kontak, peta lokasi, dan notifikasi terkini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
